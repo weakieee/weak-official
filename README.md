@@ -1,1 +1,1 @@
-# weak-official
+# student-registration-system-with-login-system
